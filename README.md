@@ -2,7 +2,7 @@
 intend to use Variational Autoencoder to generate molecules for drug discovery by integrating Variational Autoencoders (VAEs) for drug molecule generation with Large Language Models (LLMs) in the context of De Novo Drug Design.
 
 
-#TODS
+#TODO
 - combine the architecture that integrates both the VAE and the LLM. The VAE component will be responsible for generating molecular structures, while the LLM will handle natural language understanding and generation.
 
 - Represent chemical compounds as molecular graphs or SMILES strings, which serve as input to both the VAE and the LLM.
